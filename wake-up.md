@@ -1,5 +1,5 @@
 Chose your path
 
-Path one: [go outside]()
+Path one: [go outside](another-world)
 
-Path two: [stay home]()
+Path two: [stay home](virtual-reality)
