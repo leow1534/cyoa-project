@@ -1,5 +1,6 @@
-Chose your path
+When you wake up, you remember today is the weekend, which mean no going to high school, very amazingly awesome. B)
+Choose what you want to do for today.
 
-Path one: [go outside](another-world/you-went-out.md)
+[go outside](another-world/you-went-out.md)
 
-Path two: [stay home](stay-home/stayed-home.md)
+[stay home](stay-home/stayed-home.md)
