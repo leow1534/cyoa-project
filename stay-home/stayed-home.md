@@ -4,4 +4,4 @@ You wanted to stay home because it is your decision. You have 2 things to do in 
 
 [Nerve-gear](vr/never-gear.md)
 
-[Computer](computer/stayed-home.md)
+[Computer](computer/play-computer.md)
