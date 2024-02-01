@@ -4,6 +4,6 @@ There is a place where demons fight each other to rank to higher ranks.
 
  You decide:
 
- [Rank up without training]()
+ [Rank up without training](tournament.md)
 
- [Train to get stronger]()
+ [Train to get stronger](training.md)
