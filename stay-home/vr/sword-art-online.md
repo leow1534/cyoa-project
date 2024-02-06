@@ -4,4 +4,4 @@ You think its a game and they will fix it later so you can choose to continue pl
 
 [Continue playing](#)
 
-[Slit your throat](#)
+[Slit your throat](die-sao.md)
