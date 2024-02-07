@@ -2,6 +2,6 @@ You started playing the game and got very addicted, you played till afternoon. Y
 You think its a game and they will fix it later so you can choose to continue playing or trying to log off by dying.
 
 
-[Continue playing](#)
+[Continue playing](die-sao2.md)
 
 [Slit your throat](die-sao.md)
